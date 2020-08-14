@@ -1,4 +1,5 @@
-lign="center">Hi 👋, I'm Jake!</h1>
+
+<h3 align="center">Hi 👋, I'm Jake!</h1>
 <h3 align="center">A student programmer at UC Davis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehz" alt="jakehz" /> </p>
