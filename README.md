@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a programming language scanner and CSV parser**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Java**.
 
 - 👯 I’m looking to collaborate on **any open source project.**
 
