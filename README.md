@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehz" alt="jakehz" /> </p>
 
-- 🔭 I’m currently working on **my personal website.**
+- 🔭 I’m currently working on **a programming language scanner and CSV parser**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **java**
 
 - 👯 I’m looking to collaborate on **any open source project.**
 
