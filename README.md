@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehz" alt="jakehz" /> </p>
 
-- 🔭 I’m currently working on **A Meal Ordering Application**.
+- 🔭 I’m currently working on **a Food Ordering Application for on campus dining at UC Davis**.
 
 - 🌱 I’m currently learning **Software Engineering techniques**.
 
