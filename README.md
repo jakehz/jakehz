@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a food ordering ios app for on campus dining at UC Davis**.
 
-- 🌱 I’m currently learning **Bazel build system and gRPC with typescript**.
+- 🌱 I’m currently learning **Bazel build system and gRPC**.
 
 - 👯 I’m looking to collaborate on **any open source project**.
 
