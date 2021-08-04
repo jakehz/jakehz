@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehz" alt="jakehz" /> </p>
 
-- 🔭 I'm currently working on **a multithreaded kernel for a personal project** 
+- 🔭 I'm currently working on **a multithreaded kernel for a personal project**. 
 
 - 🌜 I was previously working on **a food ordering iOS app for on campus dining at UC Davis**.
 
