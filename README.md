@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi 👋, I'm Jake!</h1>
-<h3 align="center">I'm Member of Technical Staff at VMware, and a UC Davis Alum.</h3>
+<h3 align="center">I'm a Member of Technical Staff at VMware, and a UC Davis Alum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehz" alt="jakehz" /> </p>
 
