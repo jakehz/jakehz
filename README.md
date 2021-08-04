@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **x86_64 assembly and kernel development**.
 
-- 👯 I’m looking to collaborate on **any open source project**.
+- 👯 I’m looking to collaborate on **any open source project involving operating systems**.
 
 - 📫 How to reach me: **jakejhdz@gmail.com**
 
