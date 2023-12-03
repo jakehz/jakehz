@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi 👋, I'm Jake!</h1>
-<h3 align="center">I'm an MTS in vSAN Performance at VMware, and a UC Davis Alum.</h3>
+<h3 align="center">I'm a Software Engineer in VMware Cloud Foundation at Broadcom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehz" alt="jakehz" /> </p>
 
